@@ -1,5 +1,5 @@
 {
-  "name": "orm-13-modify-code",
+  "name": "ecommerce backend",
   "version": "1.0.0",
   "description": "Orm for insomnia display",
   "main": "server.js",
@@ -11,10 +11,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:jpd61/e-commerce-backend.git"
+    "url": "https://github.com/stephanyalcaide"
   },
   "keywords": [],
-  "author": "Joseph DeWoody",
+  "author": "Stephany Alcaide",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^2.0.3"
