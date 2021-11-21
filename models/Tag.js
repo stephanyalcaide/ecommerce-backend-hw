@@ -1,8 +1,7 @@
-const { Model, DataTypes } = require('sequelize');
+const { DataTypes } = require('sequelize');
 
 const sequelize = require('../config/connection.js');
-
-class Tag extends Model {}
+//tag document is been calling by init
 
 Tag.init(
   {
@@ -25,4 +24,4 @@ Tag.init(
   }
 );
 
-module.exports = Tag;
+
